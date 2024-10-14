@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=QuyetThangDev&&show_icons=true&title_color=333&icon_color=bb2acf&text_color=444" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuyetThangDev&&show_icons=true&layout=compact&title_color=333&icon_color=bb2acf&text_color=444" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huuthiet&&show_icons=true&layout=compact&title_color=333&icon_color=bb2acf&text_color=444" height="200">
 </div>
 
 <br />
